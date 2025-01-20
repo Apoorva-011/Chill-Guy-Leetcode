@@ -62,7 +62,7 @@ const Stats = () => {
           <div className="h-[85vh]">
             <div className="flex flex-row items-center justify-center mt-4 mb-4">
               <img
-                src="Garfield.png"
+                src="/images/Garfield.png"
                 alt="Garfield"
                 className="w-64 h-96 object-contain bg-white"
               />
@@ -72,7 +72,7 @@ const Stats = () => {
               </h1>
             </div>
             <img
-              src="Leetcode.png"
+              src="/images/Leetcode.png"
               alt="Leetcode logo"
               className="absolute top-2 right-4 w-20 h-20 rounded-full object-cover border border-gray-300"
             />

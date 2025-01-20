@@ -9,16 +9,17 @@ const Home = () => {
     <div className="bg-white relative h-[85vh] w-full overflow-hidden">
       {/* Leetcode Logo */}
       <img
-        src="Leetcode.png"
+        src="/images/Leetcode.png"
         alt="Leetcode logo"
         className="absolute top-[-1px] right-4 w-20 h-20 rounded-full object-cover border border-gray-300"
       />
       <div className="flex flex-col items-center justify-center h-full">
         <img
-          src="Garfieldlazy.png"
+          src="/images/Garfieldlazy.png"
           alt="Garfield lazy"
           className="w-64 h-64 object-contain"
         />
+
         <h1 className="text-4xl font-bold text-black mb-6 text-center">
           Leetcode Chill Guy Analyser
         </h1>
